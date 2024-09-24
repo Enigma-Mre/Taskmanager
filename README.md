@@ -10,13 +10,7 @@
    - [Starting the Application](#starting-the-application)
    - [Menu Options](#menu-options)
    - [Example Workflows](#example-workflows)
-7. [File Operations](#file-operations)
-   - [User Management](#user-management)
-   - [Task Management](#task-management)
-8. [Viewing Tasks](#viewing-tasks)
-   - [View All Tasks](#view-all-tasks)
-   - [View My Tasks](#view-my-tasks)
-10. [Exit Procedure](#exit-procedure)
+5. [Exiting the Application](#Exiting-the-Application)
 
 
 ## Project Description
