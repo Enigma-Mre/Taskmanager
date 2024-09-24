@@ -2,6 +2,22 @@
 
 ## Table of Contents
 
+2. [Project Description](#project-description)
+   - [Importance](#importance)
+   - [Functionality](#functionality)
+3. [Installation Instructions](#installation-instructions)
+4. [Usage Instructions](#usage-instructions)
+   - [Starting the Application](#starting-the-application)
+   - [Menu Options](#menu-options)
+   - [Example Workflows](#example-workflows)
+7. [File Operations](#file-operations)
+   - [User Management](#user-management)
+   - [Task Management](#task-management)
+8. [Viewing Tasks](#viewing-tasks)
+   - [View All Tasks](#view-all-tasks)
+   - [View My Tasks](#view-my-tasks)
+10. [Exit Procedure](#exit-procedure)
+
 
 ## Project Description
 
@@ -74,7 +90,8 @@ After successfully installing the project, follow these steps to use it effectiv
 
 2. **Log In**:
    Upon starting the application, you will see a prompt to enter your username and password. Enter your credentials:
-   ![Login Screen](path/to/screenshot1.png)
+   ![Login](https://github.com/user-attachments/assets/2f9ba54a-c7fd-4ff4-b59e-0ba403e411c0)
+
 
 ### Menu Options
 
@@ -85,7 +102,8 @@ After logging in, you will be presented with the appropriate menu based on your 
   - **View My Tasks** (`vm`): Shows tasks assigned specifically to you.
   - **Exit** (`e`): Logs you out of the application.
 
-  ![User Menu](path/to/screenshot2.png)
+  ![UserMenu](https://github.com/user-attachments/assets/17fd5ccf-7999-4aa9-b5c8-2a5eb9b6cccc)
+
 
 - **Admin Menu** (for admin users):
   - **Register a User** (`r`): Allows the admin to add new users.
@@ -94,7 +112,8 @@ After logging in, you will be presented with the appropriate menu based on your 
   - **View My Tasks** (`vm`): Same as above.
   - **Exit** (`e`): Logs you out of the application.
 
-  ![Admin Menu](path/to/screenshot3.png)
+  ![AdminMenu](https://github.com/user-attachments/assets/3d836cb7-d03f-4b19-9399-adf41640e514)
+
 
 ### Example Workflows
 
@@ -102,19 +121,22 @@ After logging in, you will be presented with the appropriate menu based on your 
    - Select the `r` option from the admin menu.
    - Follow the prompts to enter the new user's username and password.
 
-   ![Register User](path/to/screenshot4.png)
+   ![RegNewUser](https://github.com/user-attachments/assets/6ffa2f5d-11ac-42b4-9696-304136a1a764)
+
 
 2. **Add a New Task**:
    - Select the `a` option from the admin menu.
    - Fill in the task details when prompted.
 
-   ![Add Task](path/to/screenshot5.png)
+   ![AddNewTask](https://github.com/user-attachments/assets/948b461e-ca79-42b8-af4a-487912dc8fcf)
+
 
 3. **View Tasks**:
    - Select either `va` or `vm` to view all tasks or just your assigned tasks.
    - The application will display task details, including assignee, title, description, due date, and completion status.
 
-   ![View Tasks](path/to/screenshot6.png)
+   ![ViewTasks](https://github.com/user-attachments/assets/22b2488f-d3a1-4e9f-a697-b5db7c4de10e)
+
 
 ### Exiting the Application
 
